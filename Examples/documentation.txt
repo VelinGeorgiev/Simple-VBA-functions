@@ -1,0 +1,14 @@
+The examples are organized in the following order:
+
+1. There is a folder per simple function example
+2. All the VBA code is in an Excel-Macro Enabled Workbook (xlsm) and 
+starts with "libSimpleVBAFunc...xlsm
+3. All the simple VBA functions are enclosed in one 
+libSimpleFunctionVBAFunc.bas and it is included in the .xlsm file as Module
+named "libSimpleFunctionVBAFunc".
+4. All the automation code is included in a module named "Main".
+5. If there are any buttons and code behind there would be an additional
+module in the .xlsm named "Buttons".
+6. The Raw_Data.xlsx, Report.xlsb etc. files are simple examples 
+of reports or raw data that the simple-vba-functions and the automated
+Excel-Macro Enabled Workbook would use to show some particular scenario.

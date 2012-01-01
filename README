@@ -1,5 +1,26 @@
-#Title:VBA_useful_automation_functions
-#Description:Functions used by TSD EMEA CST Opex Team at HP for Excel and Access reports automation
-#Date:28.11.2011
-#Author:velin.georgiev@gmail.com
+#Title:
+	libSimpleVBAFunctions
+#Description: 
+	Very simple Visual Basic for Applications (VBA) functions used by TSD EMEA CST Opex Team at HP for Excel and Access reports automation.
+	All the functions are enclosed in a single libSimpleVBAFunc.bas file and they can be included to every automation project.
+	The folder 'Examples' contains very simple examples with the use of libSimpleVBAFunc.bas functions.
+#Date: 01.01.2012
+#Author: velin.georgiev@gmail.com
 #Version 1.0
+#System requirements: 
+	Windows XP/Vista/7, Microsoft Office 2007 or higher, .NET Framework 2.0 or higher.
+	
+#How to start working with this?
+	1. Download the libSimpleVBAFunctions from https://github.com/Velkata/Simple-VBA-functions/downloads
+	1. Open a new excel workbook.
+	2. Use keys Alt+F11 on your keyboard to open the VBA Editor.
+	3. In the VBA editor go to menu --> File (Alt+F) --> Import File... --> select the downloaded libSimpleVBAFunc.bas
+	Note: For more information visit my blog http://velin-georgiev-blog.appspot.com/?id=49002
+	
+#Can I contribute to this project, because I have a function that can be included in the libSimpleVBAFunc
+ and used for all kind of Excel or Access automation projects?
+	1. Contact velin.georgiev@gmail.com
+
+#What values could bring me this?
+	1. Less time in coding
+	2. Unified common functions that may make some macros easy to read
