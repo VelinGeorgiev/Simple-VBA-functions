@@ -1,7 +1,7 @@
 #Title:
 	libSimpleVBAFunctions
 #Description: 
-	Very simple Visual Basic for Applications (VBA) functions used by TSD EMEA CST Opex Team at HP for Excel and Access reports automation.
+	Very simple Visual Basic for Applications (VBA) functions used by me for Excel and Access reports automation.
 	All the functions are enclosed in a single libSimpleVBAFunc.bas file and they can be included to every automation project.
 	The folder 'Examples' contains very simple examples with the use of libSimpleVBAFunc.bas functions.
 #Date: 01.01.2012
