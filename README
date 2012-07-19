@@ -15,7 +15,7 @@
 	1. Open a new excel workbook.
 	2. Use keys Alt+F11 on your keyboard to open the VBA Editor.
 	3. In the VBA editor go to menu --> File (Alt+F) --> Import File... --> select the downloaded libSimpleVBAFunc.bas
-	Note: For more information visit my blog http://velin-georgiev-blog.appspot.com/?id=49002
+	Note: For more information visit my blog http://velin-georgiev-blog.appspot.com/blog/details/54002/
 	
 #Can I contribute to this project, because I have a function that can be included in the libSimpleVBAFunc
  and used for all kind of Excel or Access automation projects?
